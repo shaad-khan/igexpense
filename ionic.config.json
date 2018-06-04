@@ -1,0 +1,8 @@
+{
+  "name": "ig-expense",
+  "app_id": "dbd7012b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
